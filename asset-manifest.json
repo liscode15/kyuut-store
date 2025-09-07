@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kyuut-store/static/css/main.36451293.css",
+    "main.js": "/kyuut-store/static/js/main.38bf0c47.js",
+    "static/js/453.fdc4445c.chunk.js": "/kyuut-store/static/js/453.fdc4445c.chunk.js",
+    "static/media/gambar-8.jpg": "/kyuut-store/static/media/gambar-8.dfd04b0f7e3d3f00facd.jpg",
+    "static/media/gambar-9.jpg": "/kyuut-store/static/media/gambar-9.40a3bd02c5c6721fcfc3.jpg",
+    "static/media/gambar-3.jpg": "/kyuut-store/static/media/gambar-3.dde16bd8385114f93b7a.jpg",
+    "static/media/gambar-7.jpg": "/kyuut-store/static/media/gambar-7.8399c1fac7a6451fb82f.jpg",
+    "static/media/gambar-2.jpg": "/kyuut-store/static/media/gambar-2.c538b34943c60aebcebf.jpg",
+    "static/media/gambar-6.jpg": "/kyuut-store/static/media/gambar-6.bd7b0e02a4f04851d92c.jpg",
+    "static/media/gambar-4.jpg": "/kyuut-store/static/media/gambar-4.013009ea422218965476.jpg",
+    "static/media/gambar-5.jpg": "/kyuut-store/static/media/gambar-5.33add963ff59d436dfdb.jpg",
+    "static/media/gambar-1.jpg": "/kyuut-store/static/media/gambar-1.74ce5def744e2c45c959.jpg",
+    "index.html": "/kyuut-store/index.html",
+    "main.36451293.css.map": "/kyuut-store/static/css/main.36451293.css.map",
+    "main.38bf0c47.js.map": "/kyuut-store/static/js/main.38bf0c47.js.map",
+    "453.fdc4445c.chunk.js.map": "/kyuut-store/static/js/453.fdc4445c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36451293.css",
+    "static/js/main.38bf0c47.js"
+  ]
+}
