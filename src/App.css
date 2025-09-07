@@ -97,3 +97,27 @@ select {
 .order-button:hover {
   background-color: #e65a9e;
 }
+
+/* Untuk layar tablet dan di bawahnya (lebar maks 768px) */
+@media (max-width: 768px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+}
+
+/* Untuk layar HP dan di bawahnya (lebar maks 480px) */
+@media (max-width: 480px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .header h1 {
+    font-size: 1.5em;
+  }
+
+  .collection-title {
+    font-size: 1em;
+  }
+}
